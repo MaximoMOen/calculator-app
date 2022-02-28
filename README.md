@@ -1,2 +1,7 @@
-# sorting-visualizer
-Sorting Visualizer for Merge, Selection, Insertion, etc sorts. A project to learn react.js, css, html and other front end technologies.
+# CalculatorApp
+Simple Calculator App
+
+Fun project to learn about using React.js
+
+Heavily inspired by:
+https://www.youtube.com/watch?v=oiX-6Y2oGjI&t=1131s&ab_channel=TylerPotts
